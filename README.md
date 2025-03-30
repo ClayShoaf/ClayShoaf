@@ -1,1 +1,1 @@
-Sometimes I can grok your code and contribute someting.
+Sometimes I can read your code and contribute someting.
